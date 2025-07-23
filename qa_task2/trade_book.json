@@ -1,0 +1,902 @@
+[
+  {
+    "trade_id": "T001",
+    "strategy": "Scalping",
+    "instrument": "NIFTY-FUT",
+    "quantity": 88,
+    "entry_price": 3863.18,
+    "exit_price": 3861.66,
+    "pnl": -133.76
+  },
+  {
+    "trade_id": "T002",
+    "strategy": "Mean Reversion",
+    "instrument": "SBIN",
+    "quantity": 58,
+    "entry_price": 3412.5,
+    "exit_price": 3414.32,
+    "pnl": 105.56
+  },
+  {
+    "trade_id": "T003",
+    "strategy": "Momentum",
+    "instrument": "ADANIENT",
+    "quantity": 83,
+    "entry_price": 2479.06,
+    "exit_price": 2481.19,
+    "pnl": 176.79
+  },
+  {
+    "trade_id": "T004",
+    "strategy": "Arbitrage",
+    "instrument": "RELIANCE",
+    "quantity": 32,
+    "entry_price": 2329.19,
+    "exit_price": 2327.43,
+    "pnl": -56.32
+  },
+  {
+    "trade_id": "T005",
+    "strategy": "Arbitrage",
+    "instrument": "NIFTY-FUT",
+    "quantity": 70,
+    "entry_price": 3128.28,
+    "exit_price": 3126.92,
+    "pnl": -95.2
+  },
+  {
+    "trade_id": "T006",
+    "strategy": "Momentum",
+    "instrument": "HDFCBANK",
+    "quantity": 74,
+    "entry_price": 4416.97,
+    "exit_price": 4419.13,
+    "pnl": 159.84
+  },
+  {
+    "trade_id": "T007",
+    "strategy": "Breakout",
+    "instrument": "TCS",
+    "quantity": 34,
+    "entry_price": 2123.49,
+    "exit_price": 2124.2,
+    "pnl": 24.14
+  },
+  {
+    "trade_id": "T008",
+    "strategy": "Mean Reversion",
+    "instrument": "RELIANCE",
+    "quantity": 31,
+    "entry_price": 3971.42,
+    "exit_price": 3972.5,
+    "pnl": 33.48
+  },
+  {
+    "trade_id": "T009",
+    "strategy": "Arbitrage",
+    "instrument": "ADANIENT",
+    "quantity": 75,
+    "entry_price": 1920.16,
+    "exit_price": 1921.72,
+    "pnl": 117.0
+  },
+  {
+    "trade_id": "T010",
+    "strategy": "Scalping",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 89,
+    "entry_price": 930.81,
+    "exit_price": 929.1,
+    "pnl": -152.19
+  },
+  {
+    "trade_id": "T011",
+    "strategy": "Arbitrage",
+    "instrument": "NIFTY-FUT",
+    "quantity": 31,
+    "entry_price": 2847.38,
+    "exit_price": 2845.9,
+    "pnl": -45.88
+  },
+  {
+    "trade_id": "T012",
+    "strategy": "Momentum",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 55,
+    "entry_price": 1264.71,
+    "exit_price": 1265.45,
+    "pnl": 40.7
+  },
+  {
+    "trade_id": "T013",
+    "strategy": "Scalping",
+    "instrument": "INFY",
+    "quantity": 62,
+    "entry_price": 3130.2,
+    "exit_price": 3127.74,
+    "pnl": -152.52
+  },
+  {
+    "trade_id": "T014",
+    "strategy": "Momentum",
+    "instrument": "TCS",
+    "quantity": 100,
+    "entry_price": 706.55,
+    "exit_price": 708.52,
+    "pnl": 197.0
+  },
+  {
+    "trade_id": "T015",
+    "strategy": "Momentum",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 55,
+    "entry_price": 3307.76,
+    "exit_price": 3305.88,
+    "pnl": -103.4
+  },
+  {
+    "trade_id": "T016",
+    "strategy": "Arbitrage",
+    "instrument": "NIFTY-FUT",
+    "quantity": 10,
+    "entry_price": 3426.8,
+    "exit_price": 3426.69,
+    "pnl": -1.1
+  },
+  {
+    "trade_id": "T017",
+    "strategy": "Momentum",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 32,
+    "entry_price": 4786.08,
+    "exit_price": 4785.7,
+    "pnl": -12.16
+  },
+  {
+    "trade_id": "T018",
+    "strategy": "Momentum",
+    "instrument": "NIFTY-FUT",
+    "quantity": 26,
+    "entry_price": 3965.36,
+    "exit_price": 3966.74,
+    "pnl": 35.88
+  },
+  {
+    "trade_id": "T019",
+    "strategy": "Breakout",
+    "instrument": "SBIN",
+    "quantity": 70,
+    "entry_price": 2567.21,
+    "exit_price": 2568.1,
+    "pnl": 62.3
+  },
+  {
+    "trade_id": "T020",
+    "strategy": "Breakout",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 50,
+    "entry_price": 1601.72,
+    "exit_price": 1599.46,
+    "pnl": -113.0
+  },
+  {
+    "trade_id": "T021",
+    "strategy": "Momentum",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 77,
+    "entry_price": 5190.73,
+    "exit_price": 5190.23,
+    "pnl": -38.5
+  },
+  {
+    "trade_id": "T022",
+    "strategy": "Scalping",
+    "instrument": "ADANIENT",
+    "quantity": 24,
+    "entry_price": 360.26,
+    "exit_price": 362.52,
+    "pnl": 54.24
+  },
+  {
+    "trade_id": "T023",
+    "strategy": "Scalping",
+    "instrument": "INFY",
+    "quantity": 41,
+    "entry_price": 3363.99,
+    "exit_price": 3364.91,
+    "pnl": 37.72
+  },
+  {
+    "trade_id": "T024",
+    "strategy": "Breakout",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 98,
+    "entry_price": 380.31,
+    "exit_price": 379.99,
+    "pnl": -31.36
+  },
+  {
+    "trade_id": "T025",
+    "strategy": "Mean Reversion",
+    "instrument": "TCS",
+    "quantity": 33,
+    "entry_price": 3350.08,
+    "exit_price": 3350.26,
+    "pnl": 5.94
+  },
+  {
+    "trade_id": "T026",
+    "strategy": "Momentum",
+    "instrument": "ITC",
+    "quantity": 57,
+    "entry_price": 3513.78,
+    "exit_price": 3511.51,
+    "pnl": -129.39
+  },
+  {
+    "trade_id": "T027",
+    "strategy": "Scalping",
+    "instrument": "HDFCBANK",
+    "quantity": 38,
+    "entry_price": 811.17,
+    "exit_price": 810.4,
+    "pnl": -29.26
+  },
+  {
+    "trade_id": "T028",
+    "strategy": "Scalping",
+    "instrument": "NIFTY-FUT",
+    "quantity": 28,
+    "entry_price": 5754.37,
+    "exit_price": 5755.45,
+    "pnl": 30.24
+  },
+  {
+    "trade_id": "T029",
+    "strategy": "Arbitrage",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 27,
+    "entry_price": 2197.55,
+    "exit_price": 2198.62,
+    "pnl": 28.89
+  },
+  {
+    "trade_id": "T030",
+    "strategy": "Breakout",
+    "instrument": "ICICIBANK",
+    "quantity": 89,
+    "entry_price": 5646.11,
+    "exit_price": 5644.62,
+    "pnl": -132.61
+  },
+  {
+    "trade_id": "T031",
+    "strategy": "Breakout",
+    "instrument": "ADANIENT",
+    "quantity": 61,
+    "entry_price": 111.65,
+    "exit_price": 112.63,
+    "pnl": 59.78
+  },
+  {
+    "trade_id": "T032",
+    "strategy": "Mean Reversion",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 66,
+    "entry_price": 131.11,
+    "exit_price": 131.23,
+    "pnl": 7.92
+  },
+  {
+    "trade_id": "T033",
+    "strategy": "Momentum",
+    "instrument": "INFY",
+    "quantity": 19,
+    "entry_price": 3123.03,
+    "exit_price": 3124.29,
+    "pnl": 23.94
+  },
+  {
+    "trade_id": "T034",
+    "strategy": "Breakout",
+    "instrument": "ADANIENT",
+    "quantity": 60,
+    "entry_price": 1938.45,
+    "exit_price": 1937.49,
+    "pnl": -57.6
+  },
+  {
+    "trade_id": "T035",
+    "strategy": "Momentum",
+    "instrument": "HDFCBANK",
+    "quantity": 48,
+    "entry_price": 2054.95,
+    "exit_price": 2054.77,
+    "pnl": -8.64
+  },
+  {
+    "trade_id": "T036",
+    "strategy": "Scalping",
+    "instrument": "ICICIBANK",
+    "quantity": 73,
+    "entry_price": 3728.36,
+    "exit_price": 3728.87,
+    "pnl": 37.23
+  },
+  {
+    "trade_id": "T037",
+    "strategy": "Arbitrage",
+    "instrument": "HDFCBANK",
+    "quantity": 58,
+    "entry_price": 3432.61,
+    "exit_price": 3435.0,
+    "pnl": 138.62
+  },
+  {
+    "trade_id": "T038",
+    "strategy": "Breakout",
+    "instrument": "INFY",
+    "quantity": 88,
+    "entry_price": 3587.84,
+    "exit_price": 3590.2,
+    "pnl": 207.68
+  },
+  {
+    "trade_id": "T039",
+    "strategy": "Mean Reversion",
+    "instrument": "INFY",
+    "quantity": 38,
+    "entry_price": 5407.7,
+    "exit_price": 5405.75,
+    "pnl": -74.1
+  },
+  {
+    "trade_id": "T040",
+    "strategy": "Breakout",
+    "instrument": "ADANIENT",
+    "quantity": 98,
+    "entry_price": 3451.2,
+    "exit_price": 3450.27,
+    "pnl": -91.14
+  },
+  {
+    "trade_id": "T041",
+    "strategy": "Momentum",
+    "instrument": "INFY",
+    "quantity": 96,
+    "entry_price": 2534.62,
+    "exit_price": 2535.33,
+    "pnl": 68.16
+  },
+  {
+    "trade_id": "T042",
+    "strategy": "Arbitrage",
+    "instrument": "ICICIBANK",
+    "quantity": 59,
+    "entry_price": 4858.17,
+    "exit_price": 4858.06,
+    "pnl": -6.49
+  },
+  {
+    "trade_id": "T043",
+    "strategy": "Scalping",
+    "instrument": "TCS",
+    "quantity": 85,
+    "entry_price": 1883.77,
+    "exit_price": 1884.55,
+    "pnl": 66.3
+  },
+  {
+    "trade_id": "T044",
+    "strategy": "Arbitrage",
+    "instrument": "RELIANCE",
+    "quantity": 66,
+    "entry_price": 3931.64,
+    "exit_price": 3930.81,
+    "pnl": -54.78
+  },
+  {
+    "trade_id": "T045",
+    "strategy": "Momentum",
+    "instrument": "RELIANCE",
+    "quantity": 94,
+    "entry_price": 5729.22,
+    "exit_price": 5729.03,
+    "pnl": -17.86
+  },
+  {
+    "trade_id": "T046",
+    "strategy": "Momentum",
+    "instrument": "ADANIENT",
+    "quantity": 59,
+    "entry_price": 1884.8,
+    "exit_price": 1885.67,
+    "pnl": 51.33
+  },
+  {
+    "trade_id": "T047",
+    "strategy": "Scalping",
+    "instrument": "ITC",
+    "quantity": 94,
+    "entry_price": 3413.4,
+    "exit_price": 3413.74,
+    "pnl": 31.96
+  },
+  {
+    "trade_id": "T048",
+    "strategy": "Mean Reversion",
+    "instrument": "NIFTY-FUT",
+    "quantity": 32,
+    "entry_price": 3591.0,
+    "exit_price": 3591.13,
+    "pnl": 4.16
+  },
+  {
+    "trade_id": "T049",
+    "strategy": "Breakout",
+    "instrument": "NIFTY-FUT",
+    "quantity": 33,
+    "entry_price": 4179.12,
+    "exit_price": 4180.82,
+    "pnl": 56.1
+  },
+  {
+    "trade_id": "T050",
+    "strategy": "Mean Reversion",
+    "instrument": "TCS",
+    "quantity": 70,
+    "entry_price": 2322.27,
+    "exit_price": 2323.36,
+    "pnl": 76.3
+  },
+  {
+    "trade_id": "T051",
+    "strategy": "Mean Reversion",
+    "instrument": "ADANIENT",
+    "quantity": 98,
+    "entry_price": 5375.82,
+    "exit_price": 5374.99,
+    "pnl": -81.34
+  },
+  {
+    "trade_id": "T052",
+    "strategy": "Arbitrage",
+    "instrument": "ICICIBANK",
+    "quantity": 35,
+    "entry_price": 1151.04,
+    "exit_price": 1150.89,
+    "pnl": -5.25
+  },
+  {
+    "trade_id": "T053",
+    "strategy": "Mean Reversion",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 84,
+    "entry_price": 3447.8,
+    "exit_price": 3447.64,
+    "pnl": -13.44
+  },
+  {
+    "trade_id": "T054",
+    "strategy": "Momentum",
+    "instrument": "RELIANCE",
+    "quantity": 84,
+    "entry_price": 5200.72,
+    "exit_price": 5203.04,
+    "pnl": 194.88
+  },
+  {
+    "trade_id": "T055",
+    "strategy": "Momentum",
+    "instrument": "SBIN",
+    "quantity": 77,
+    "entry_price": 4732.86,
+    "exit_price": 4734.49,
+    "pnl": 125.51
+  },
+  {
+    "trade_id": "T056",
+    "strategy": "Momentum",
+    "instrument": "TCS",
+    "quantity": 27,
+    "entry_price": 5859.17,
+    "exit_price": 5860.24,
+    "pnl": 28.89
+  },
+  {
+    "trade_id": "T057",
+    "strategy": "Arbitrage",
+    "instrument": "TCS",
+    "quantity": 53,
+    "entry_price": 5990.7,
+    "exit_price": 5992.52,
+    "pnl": 96.46
+  },
+  {
+    "trade_id": "T058",
+    "strategy": "Mean Reversion",
+    "instrument": "INFY",
+    "quantity": 98,
+    "entry_price": 2653.91,
+    "exit_price": 2651.49,
+    "pnl": -237.16
+  },
+  {
+    "trade_id": "T059",
+    "strategy": "Momentum",
+    "instrument": "HDFCBANK",
+    "quantity": 19,
+    "entry_price": 5321.27,
+    "exit_price": 5319.31,
+    "pnl": -37.24
+  },
+  {
+    "trade_id": "T060",
+    "strategy": "Breakout",
+    "instrument": "ADANIENT",
+    "quantity": 99,
+    "entry_price": 2516.72,
+    "exit_price": 2517.42,
+    "pnl": 69.3
+  },
+  {
+    "trade_id": "T061",
+    "strategy": "Mean Reversion",
+    "instrument": "ICICIBANK",
+    "quantity": 58,
+    "entry_price": 5386.67,
+    "exit_price": 5385.62,
+    "pnl": -60.9
+  },
+  {
+    "trade_id": "T062",
+    "strategy": "Momentum",
+    "instrument": "INFY",
+    "quantity": 15,
+    "entry_price": 5362.7,
+    "exit_price": 5363.52,
+    "pnl": 12.3
+  },
+  {
+    "trade_id": "T063",
+    "strategy": "Breakout",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 38,
+    "entry_price": 3399.91,
+    "exit_price": 3401.67,
+    "pnl": 66.88
+  },
+  {
+    "trade_id": "T064",
+    "strategy": "Scalping",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 57,
+    "entry_price": 3740.95,
+    "exit_price": 3740.25,
+    "pnl": -39.9
+  },
+  {
+    "trade_id": "T065",
+    "strategy": "Breakout",
+    "instrument": "INFY",
+    "quantity": 24,
+    "entry_price": 3832.62,
+    "exit_price": 3831.53,
+    "pnl": -26.16
+  },
+  {
+    "trade_id": "T066",
+    "strategy": "Breakout",
+    "instrument": "RELIANCE",
+    "quantity": 53,
+    "entry_price": 118.07,
+    "exit_price": 117.0,
+    "pnl": -56.71
+  },
+  {
+    "trade_id": "T067",
+    "strategy": "Scalping",
+    "instrument": "NIFTY-FUT",
+    "quantity": 94,
+    "entry_price": 5796.46,
+    "exit_price": 5798.54,
+    "pnl": 195.52
+  },
+  {
+    "trade_id": "T068",
+    "strategy": "Momentum",
+    "instrument": "ADANIENT",
+    "quantity": 53,
+    "entry_price": 3332.45,
+    "exit_price": 3330.31,
+    "pnl": -113.42
+  },
+  {
+    "trade_id": "T069",
+    "strategy": "Arbitrage",
+    "instrument": "ITC",
+    "quantity": 59,
+    "entry_price": 3776.54,
+    "exit_price": 3778.37,
+    "pnl": 107.97
+  },
+  {
+    "trade_id": "T070",
+    "strategy": "Scalping",
+    "instrument": "ADANIENT",
+    "quantity": 91,
+    "entry_price": 4368.77,
+    "exit_price": 4370.2,
+    "pnl": 130.13
+  },
+  {
+    "trade_id": "T071",
+    "strategy": "Momentum",
+    "instrument": "ICICIBANK",
+    "quantity": 82,
+    "entry_price": 2452.82,
+    "exit_price": 2450.8,
+    "pnl": -165.64
+  },
+  {
+    "trade_id": "T072",
+    "strategy": "Momentum",
+    "instrument": "ICICIBANK",
+    "quantity": 27,
+    "entry_price": 3155.75,
+    "exit_price": 3154.27,
+    "pnl": -39.96
+  },
+  {
+    "trade_id": "T073",
+    "strategy": "Scalping",
+    "instrument": "INFY",
+    "quantity": 59,
+    "entry_price": 2415.04,
+    "exit_price": 2413.98,
+    "pnl": -62.54
+  },
+  {
+    "trade_id": "T074",
+    "strategy": "Momentum",
+    "instrument": "HDFCBANK",
+    "quantity": 52,
+    "entry_price": 3749.12,
+    "exit_price": 3747.77,
+    "pnl": -70.2
+  },
+  {
+    "trade_id": "T075",
+    "strategy": "Scalping",
+    "instrument": "TCS",
+    "quantity": 84,
+    "entry_price": 251.06,
+    "exit_price": 249.99,
+    "pnl": -89.88
+  },
+  {
+    "trade_id": "T076",
+    "strategy": "Scalping",
+    "instrument": "ICICIBANK",
+    "quantity": 57,
+    "entry_price": 4840.76,
+    "exit_price": 4841.69,
+    "pnl": 53.01
+  },
+  {
+    "trade_id": "T077",
+    "strategy": "Scalping",
+    "instrument": "ADANIENT",
+    "quantity": 86,
+    "entry_price": 4127.88,
+    "exit_price": 4129.49,
+    "pnl": 138.46
+  },
+  {
+    "trade_id": "T078",
+    "strategy": "Scalping",
+    "instrument": "NIFTY-FUT",
+    "quantity": 70,
+    "entry_price": 2815.14,
+    "exit_price": 2815.31,
+    "pnl": 11.9
+  },
+  {
+    "trade_id": "T079",
+    "strategy": "Breakout",
+    "instrument": "ICICIBANK",
+    "quantity": 65,
+    "entry_price": 5925.2,
+    "exit_price": 5923.77,
+    "pnl": -92.95
+  },
+  {
+    "trade_id": "T080",
+    "strategy": "Arbitrage",
+    "instrument": "BAJAJ-AUTO",
+    "quantity": 64,
+    "entry_price": 2087.66,
+    "exit_price": 2089.08,
+    "pnl": 90.88
+  },
+  {
+    "trade_id": "T081",
+    "strategy": "Momentum",
+    "instrument": "NIFTY-FUT",
+    "quantity": 72,
+    "entry_price": 5303.83,
+    "exit_price": 5305.63,
+    "pnl": 129.6
+  },
+  {
+    "trade_id": "T082",
+    "strategy": "Mean Reversion",
+    "instrument": "SBIN",
+    "quantity": 85,
+    "entry_price": 3619.77,
+    "exit_price": 3621.93,
+    "pnl": 183.6
+  },
+  {
+    "trade_id": "T083",
+    "strategy": "Breakout",
+    "instrument": "INFY",
+    "quantity": 33,
+    "entry_price": 1325.91,
+    "exit_price": 1324.33,
+    "pnl": -52.14
+  },
+  {
+    "trade_id": "T084",
+    "strategy": "Mean Reversion",
+    "instrument": "RELIANCE",
+    "quantity": 25,
+    "entry_price": 266.87,
+    "exit_price": 267.63,
+    "pnl": 19.0
+  },
+  {
+    "trade_id": "T085",
+    "strategy": "Scalping",
+    "instrument": "ADANIENT",
+    "quantity": 33,
+    "entry_price": 3298.97,
+    "exit_price": 3296.56,
+    "pnl": -79.53
+  },
+  {
+    "trade_id": "T086",
+    "strategy": "Breakout",
+    "instrument": "ICICIBANK",
+    "quantity": 42,
+    "entry_price": 3854.0,
+    "exit_price": 3855.66,
+    "pnl": 69.72
+  },
+  {
+    "trade_id": "T087",
+    "strategy": "Mean Reversion",
+    "instrument": "NIFTY-FUT",
+    "quantity": 38,
+    "entry_price": 2380.02,
+    "exit_price": 2381.0,
+    "pnl": 37.24
+  },
+  {
+    "trade_id": "T088",
+    "strategy": "Scalping",
+    "instrument": "ADANIENT",
+    "quantity": 90,
+    "entry_price": 157.43,
+    "exit_price": 155.1,
+    "pnl": -209.7
+  },
+  {
+    "trade_id": "T089",
+    "strategy": "Arbitrage",
+    "instrument": "TCS",
+    "quantity": 38,
+    "entry_price": 3909.29,
+    "exit_price": 3907.41,
+    "pnl": -71.44
+  },
+  {
+    "trade_id": "T090",
+    "strategy": "Scalping",
+    "instrument": "ICICIBANK",
+    "quantity": 25,
+    "entry_price": 1866.34,
+    "exit_price": 1868.34,
+    "pnl": 50.0
+  },
+  {
+    "trade_id": "T091",
+    "strategy": "Mean Reversion",
+    "instrument": "TCS",
+    "quantity": 65,
+    "entry_price": 1679.84,
+    "exit_price": 1682.19,
+    "pnl": 152.75
+  },
+  {
+    "trade_id": "T092",
+    "strategy": "Arbitrage",
+    "instrument": "ADANIENT",
+    "quantity": 36,
+    "entry_price": 1849.23,
+    "exit_price": 1847.36,
+    "pnl": -67.32
+  },
+  {
+    "trade_id": "T093",
+    "strategy": "Scalping",
+    "instrument": "NIFTY-FUT",
+    "quantity": 86,
+    "entry_price": 5564.28,
+    "exit_price": 5563.57,
+    "pnl": -61.06
+  },
+  {
+    "trade_id": "T094",
+    "strategy": "Momentum",
+    "instrument": "ICICIBANK",
+    "quantity": 77,
+    "entry_price": 1980.83,
+    "exit_price": 1980.3,
+    "pnl": -40.81
+  },
+  {
+    "trade_id": "T095",
+    "strategy": "Arbitrage",
+    "instrument": "TCS",
+    "quantity": 42,
+    "entry_price": 2228.67,
+    "exit_price": 2228.14,
+    "pnl": -22.26
+  },
+  {
+    "trade_id": "T096",
+    "strategy": "Breakout",
+    "instrument": "SBIN",
+    "quantity": 10,
+    "entry_price": 4125.73,
+    "exit_price": 4123.87,
+    "pnl": -18.6
+  },
+  {
+    "trade_id": "T097",
+    "strategy": "Breakout",
+    "instrument": "ICICIBANK",
+    "quantity": 46,
+    "entry_price": 3824.34,
+    "exit_price": 3826.11,
+    "pnl": 81.42
+  },
+  {
+    "trade_id": "T098",
+    "strategy": "Breakout",
+    "instrument": "TCS",
+    "quantity": 72,
+    "entry_price": 1431.22,
+    "exit_price": 1430.38,
+    "pnl": -60.48
+  },
+  {
+    "trade_id": "T099",
+    "strategy": "Arbitrage",
+    "instrument": "ICICIBANK",
+    "quantity": 42,
+    "entry_price": 1768.96,
+    "exit_price": 1766.53,
+    "pnl": -102.06
+  },
+  {
+    "trade_id": "T100",
+    "strategy": "Breakout",
+    "instrument": "ITC",
+    "quantity": 34,
+    "entry_price": 5568.41,
+    "exit_price": 5567.25,
+    "pnl": -39.44
+  }
+]
